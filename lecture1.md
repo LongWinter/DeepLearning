@@ -18,3 +18,5 @@
   - standard machine learning techniques works pretty good compared with deep learning approaches
 
 - there are a lot of engineering hacks, lots of trail and error.
+-  can use google colab, but often lose connection around 2 hours
+   -  need to 
